@@ -3,11 +3,9 @@ import os
 
 import sqlalchemy
 print(sqlalchemy.__version__)
+
 # DB_CONNECTION_STRING = 
-db_connection_string ="mysql+pymysql://fygsc7mjghrkx1ud7ih3:pscale_pw_TfKZ4izzEtv2WiFa5HEtHTWJzraR7Aark0P3FdCw4ao@aws.connect.psdb.cloud/careerhub?charset=utf8mb4"
-
-
-# db_connection_string = os.environ['DB_CONNECTION_STRING']
+db_connection_string = os.environ['DB_CONNECTION_STRING']
 
 engine = create_engine(
   db_connection_string, 
