@@ -10,7 +10,8 @@ engine = create_engine(
     "ssl": {
       "ssl_ca": "/etc/ssl/cert.pem"
     }
-  })
+  }
+)
 
 # testing the engine
 # with engine.connect() as conn:
