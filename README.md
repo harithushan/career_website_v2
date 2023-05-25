@@ -1,4 +1,4 @@
-##carreer_website (Career-Hub)
+<h1>carreer_website (Career-Hub)</h1>
 
 Developed a career website using Python and Flask. Built HTML pages, styled with CSS and Bootstrap. Implemented dynamic data rendering
 with Jinja templates and connected a cloud MySQL database. Created a  database-driven web page
