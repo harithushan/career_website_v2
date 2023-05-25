@@ -1,5 +1,4 @@
 Flask
 sqlalchemy==1.4.23
 pymysql
-python-dotenv
 gunicorn
