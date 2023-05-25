@@ -8,15 +8,15 @@ and integrated HTML forms for capturing data to planetscale db.
 
 ![Home Page](https://github.com/harithushan/career_website_v2/blob/main/static/readme_img/home.jpg)
 
-- Job Lists
+- <h2>Job Lists</h2>
 
 ![Job Lists](https://github.com/harithushan/career_website_v2/blob/main/static/readme_img/job_list.jpg)
 
-- Job Description with form
+- <h2>Job Description with form</h2>
 
 ![Job Description with form](https://github.com/harithushan/career_website_v2/blob/main/static/readme_img/job.jpg)
 
-- Submission
+- <h2>Submission</h2>
 
 ![Submission](https://github.com/harithushan/career_website_v2/blob/main/static/readme_img/submition.jpg)
 
