@@ -17,10 +17,7 @@ create an environment
 ```
 conda create -p venv python==3.9.15 -y
 ```
-
-```
-Setup the cconnection with your db 
-```
+Setup your connection with your db  and assign the connection string to  Variable "DB_CONNECTION_STRING"
 
 Install the requirements
 ```
