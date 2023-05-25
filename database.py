@@ -5,8 +5,8 @@ import os
 
 db_connection_string = os.environ.get('DB_CONNECTION_STRING')
 
-if variable_value:
-    print(f"The value of VARIABLE_NAME is: {variable_value}")
+if db_connection_string:
+    print(f"The value of VARIABLE_NAME is: {db_connection_string}")
 else:
     print("VARIABLE_NAME is not set or doesn't exist.")
 
