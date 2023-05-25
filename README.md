@@ -18,6 +18,10 @@ create an environment
 conda create -p venv python==3.9.15 -y
 ```
 
+```
+Setup the cconnection with your db 
+```
+
 Install the requirements
 ```
 pip install -r requirements.txt
