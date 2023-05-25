@@ -1,17 +1,17 @@
 from sqlalchemy import create_engine, text
 import os
 
-# DB_CONNECTION_STRING
-# db_connection_string = os.environ['DB_CONNECTION_STRING']
-db_connection_string = os.environ.get('DB_CONNECTION_STRING')
-engine = create_engine(
-  db_connection_string, 
-  connect_args={
-    "ssl": {
-      "ssl_ca": "/etc/ssl/cert.pem"
-    }
-  }
-)
+# # DB_CONNECTION_STRING
+# # db_connection_string = os.environ['DB_CONNECTION_STRING']
+# db_connection_string = os.environ.get('DB_CONNECTION_STRING')
+# engine = create_engine(
+#   db_connection_string, 
+#   connect_args={
+#     "ssl": {
+#       "ssl_ca": "/etc/ssl/cert.pem"
+#     }
+#   }
+# )
 
 # testing the engine
 # with engine.connect() as conn:
