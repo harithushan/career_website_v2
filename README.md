@@ -4,7 +4,7 @@ Developed a career website using Python and Flask. Built HTML pages, styled with
 with Jinja templates and connected a cloud MySQL database. Created a  database-driven web page
 and integrated HTML forms for capturing data to planetscale db.
 
-- <h1>Home Page</h1>
+- <h2>Home Page</h2>
 
 ![Home Page](https://github.com/harithushan/career_website_v2/blob/main/static/readme_img/home.jpg)
 
