@@ -1,14 +1,5 @@
 from sqlalchemy import create_engine, text
 import os
-# from dotenv import load_dotenv
-# load_dotenv()
-
-# db_connection_string = os.environ.get('DB_CONNECTION_STRING')
-
-# if db_connection_string:
-#     print(f"The value of VARIABLE_NAME is: {db_connection_string}")
-# else:
-#     print("VARIABLE_NAME is not set or doesn't exist.")
 
 
 # DB_CONNECTION_STRING 
