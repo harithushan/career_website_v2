@@ -5,8 +5,11 @@ with Jinja templates and connected a cloud MySQL database. Created a  database-d
 and integrated HTML forms for capturing data to planetscale db.
 
 [Home Page](https://github.com/harithushan/career_website_v2/blob/main/static/readme_img/home.jpg)
+
 [Home Page](https://github.com/harithushan/career_website_v2/blob/main/static/readme_img/job_list.jpg)
+
 [Home Page](https://github.com/harithushan/career_website_v2/blob/main/static/readme_img/job.jpg)
+
 [Home Page](https://github.com/harithushan/career_website_v2/blob/main/static/readme_img/submition.jpg)
 
 create an environment
